@@ -1,0 +1,14 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="processCloseConfirmation" value="TERMINATE" />
+    <option name="showTipsOnStartup" value="false" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Notifications" value="false" />
+        <entry key="php.debug.status.widget" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
